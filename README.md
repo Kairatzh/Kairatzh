@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+LLM+Engineer;Multi-Agent+Systems+Specialist;Production+AI+Applications;Enterprise+ML+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+LLM+Engineer;Multi-Agent+Systems+Specialist;Production+AI+Applications;Enterprise+ML+Solutions)](https://git.io/typing-svg)
 
 </div>
 
