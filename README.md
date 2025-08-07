@@ -20,20 +20,20 @@
 class SeniorLLMEngineer:
     def __init__(self):
         self.name = "Кайрат Жаксылыков"
-        self.role = "Senior LLM Engineer & AI Systems Architect"
+        self.role = "Junior LLM Engineer & AI Systems Architect"
         self.experience = "1+ год в production LLM системах"
         self.location = "Казахстан 🇰🇿"
         
     def get_expertise(self):
         return {
-            "llm_engineering": ["Production RAG", "GraphRAG", "Fine-tuning"],
+            "llm_engineering": ["Production RAG", "GraphRAG", "Fine-tuning", "LoRa", "PEFT", "langchain", "langgraph"],
             "agent_systems": ["Multi-Agent", "ReAct", "Planning Agents"],
-            "ml_ops": ["Docker", "CI/CD", "Model Deployment"],
-            "backend": ["FastAPI", "PostgreSQL", "API Design"]
+            "ml_ops": ["Docker", "CI/CD", "Model Deployment", "Docker-compose", "Git", "MLFlow", "Langsmith"],
+            "backend": ["FastAPI", "PostgreSQL", "REST api"]
         }
         
     def get_tech_stack(self):
-        return ["PyTorch", "LangChain", "vLLM", "Docker", "PostgreSQL"]
+        return ["PyTorch", "LangChain", "vLLM", "Docker", "PostgreSQL", "langgraph", "langsmith", "autogen", "whisper", "scikit-learn"]
 ```
 
 <br clear="right"/>
