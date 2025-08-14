@@ -12,190 +12,103 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## Professional Profile
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2b3e/raw/6058e76860d16ee29df949da3166ae3b5cf06d9b/Developer.gif">
-
-```python
-class SeniorLLMEngineer:
-    def __init__(self):
-        self.name = "Кайрат Жаксылыков"
-        self.role = "Junior LLM Engineer & AI Systems Architect"
-        self.experience = "1+ год в production LLM системах"
-        self.location = "Казахстан 🇰🇿"
-        
-    def get_expertise(self):
-        return {
-            "llm_engineering": ["Production RAG", "GraphRAG", "Fine-tuning", "LoRa", "PEFT", "langchain", "langgraph"],
-            "agent_systems": ["Multi-Agent", "ReAct", "Planning Agents"],
-            "ml_ops": ["Docker", "CI/CD", "Model Deployment", "Docker-compose", "Git", "MLFlow", "Langsmith"],
-            "backend": ["FastAPI", "PostgreSQL", "REST api"]
-        }
-        
-    def get_tech_stack(self):
-        return ["PyTorch", "LangChain", "vLLM", "Docker", "PostgreSQL", "langgraph", "langsmith", "autogen", "whisper", "scikit-learn"]
-```
-
-<br clear="right"/>
+**Кайрат Жаксылыков** — специалист в области LLM Engineering, AI Systems Architecture, Machine Learning и Deep Learning.  
+Опыт включает построение масштабируемых AI-систем, разработку классических ML/Deep Learning моделей, работу с традиционной NLP, интеграцию больших языковых моделей (LLM) в продакшн, а также сопровождение полного цикла разработки — от архитектуры до развертывания.  
+Отличаюсь умением объединять современные подходы (LLM, мультиагентные системы, RAG) с проверенными методами классического ML и DL, обеспечивая стабильность, предсказуемость и высокую производительность систем.
 
 ---
 
-## 🛠️ Core Technologies
+### Области экспертизы
 
-<div align="center">
+**LLM Engineering**
+- Построение RAG и GraphRAG систем.
+- Fine-tuning моделей (LoRA, QLoRA, PEFT) для узких доменов.
+- Оптимизация inference (vLLM, TensorRT, llama.cpp, Ollama).
+- Prompt-инжиниринг (Zero-shot, Few-shot, CoT, ReAct).
 
-### 🤖 LLM & AI Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+**Multi-Agent Systems**
+- Архитектура многоагентных систем (LangGraph, AutoGEN, Planning Agents).
+- Интеграция агентов с API и внешними сервисами.
+- Построение систем с динамическим выбором инструментов.
 
-### 🚀 Backend & Production
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Classical Machine Learning**
+- Регрессия (Linear, Ridge, Lasso), классификация (Logistic Regression, SVM, Decision Trees, Random Forest).
+- Ансамблевые методы (Gradient Boosting, XGBoost, LightGBM, CatBoost).
+- Кластеризация (K-Means, DBSCAN, Hierarchical Clustering).
+- Feature engineering, подбор гиперпараметров, валидация моделей.
 
-### 🗄️ Vector Databases & Search
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6900?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge)
+**Deep Learning**
+- Построение и обучение нейросетей на PyTorch (MLP, CNN, RNN, LSTM, GRU).
+- Transfer Learning и fine-tuning предобученных моделей (ResNet, EfficientNet, BERT).
+- Оптимизация архитектур, регуляризация, использование scheduler’ов.
+- Работа с большими датасетами и ускорение обучения на GPU.
 
-### ⚙️ MLOps & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+**Classical NLP**
+- Предобработка текста: токенизация, стемминг, лемматизация, удаление стоп-слов.
+- Векторизация текста (Bag-of-Words, TF-IDF, Word2Vec, FastText, GloVe).
+- Классификация текста, анализ тональности, тематическое моделирование (LDA).
+- Создание чат-ботов и диалоговых систем на основе традиционных методов NLP.
+- Интеграция NLTK, spaCy, gensim в ML-проекты.
 
-</div>
+**Backend & API Development**
+- FastAPI для создания REST API.
+- PostgreSQL и Redis для хранения и кэширования данных.
+- Оптимизация API для высоких нагрузок.
 
----
+**MLOps & Production**
+- Контейнеризация (Docker, Docker Compose).
+- CI/CD (GitHub Actions, GitLab CI).
+- Мониторинг, логирование и управление моделями (MLFlow, LangSmith).
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kairatzh&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kairatzh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9"/>
-
-<img width="800em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kairatzh&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500"/>
-
-</div>
-
----
-
-## 🎯 Technical Expertise
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Production AI))
-    LLM Engineering
-      RAG Systems
-      GraphRAG
-      Fine-tuning: LoRA/QLoRA/PEFT
-      Model Optimization
-    Agent Systems
-      Multi-Agent Architecture
-      ReAct Agents
-      Planning & Tool Use
-      LangGraph Workflows
-    Production Stack
-      vLLM Integration
-      llama.cpp Deployment
-      Ollama Management
-      API Design
-    MLOps
-      Docker Containerization
-      CI/CD Pipelines
-      Model Monitoring
-      Performance Optimization
-```
-
-</div>
+**Vector Search & Databases**
+- Внедрение и оптимизация поиска (ChromaDB, Pinecone, Weaviate, FAISS).
+- Построение гибридных систем поиска.
 
 ---
 
-## 💼 Key Projects & Impact
+### Достижения
 
-<div align="center">
-
-| 🚀 **Project** | 🛠️ **Tech Stack** | 📈 **Impact** |
-|:---|:---|:---:|
-| **Enterprise RAG System** | LangChain + FastAPI + ChromaDB + Docker | Production Ready |
-| **Multi-Agent Workflow Engine** | LangGraph + ReAct + Planning Agents | Scalable Architecture |
-| **GraphRAG Knowledge System** | Neo4j + LLM + Knowledge Graphs | Advanced Retrieval |
-| **LLM Fine-tuning Pipeline** | LoRA + QLoRA + PEFT + Distributed Training | Model Optimization |
-| **Production API Gateway** | FastAPI + PostgreSQL + Redis + Docker | High Performance |
-
-</div>
+- Реализовал **Enterprise RAG-систему** с интеграцией в корпоративные процессы и поддержкой гибридного поиска.
+- Создал **многоагентную платформу** на LangGraph для автоматизации образовательных процессов.
+- Построил **GraphRAG Knowledge System** с использованием Neo4j и LLM для семантического поиска.
+- Разработал и внедрил модели **классического ML** для предсказания цен, классификации данных и оценки рисков.
+- Обучил и оптимизировал **CNN и LSTM** для задач анализа изображений и обработки последовательностей.
+- Наставлял команду стажёров, внедрял стандарты разработки, проводил code review.
+- Довёл несколько AI-продуктов от прототипа до стабильной работы в продакшне.
 
 ---
 
-## 🔧 Production Experience
+### Опыт работы
 
-<div align="center">
-
-| 🎯 **Domain** | 💡 **Technologies** | ⚡ **Specialization** |
-|:---|:---|:---|
-| **LLM Deployment** | vLLM, llama.cpp, Ollama, TensorRT | High-throughput inference |
-| **Agent Orchestration** | LangGraph, Multi-Agent Systems, Tool Integration | Complex workflow automation |
-| **Vector Search** | ChromaDB, Pinecone, Weaviate, FAISS | Semantic retrieval systems |
-| **Model Fine-tuning** | LoRA, QLoRA, PEFT, Distributed Training | Custom model adaptation |
-| **Backend Architecture** | FastAPI, PostgreSQL, Redis, Docker | Scalable API design |
-
-</div>
+**Tanym (Астана) | NLP/LLM Engineer**  
+*2025 — настоящее время*  
+- Основной разработчик NLP/LLM-модулей в AI-ассистенте.
+- Создание мультиагентных систем, интеграция LLM в процессы обучения.
+- Реализация RAG-пайплайнов, разработка API и контейнеризация сервисов.
+- Оптимизация inference и качества генерации.
 
 ---
 
-## 📈 Performance Metrics
+### Показатели эффективности
 
-<div align="center">
-
-| 📊 **Metric** | 🎯 **Achievement** |
-|:---:|:---:|
-| **Production Systems** | 5+ deployed applications |
-| **Model Implementations** | 12+ LLM integrations |
-| **Agent Architectures** | 8+ multi-agent systems |
-| **API Endpoints** | 25+ production endpoints |
-| **Docker Deployments** | 15+ containerized services |
-
-</div>
+- **5+** полноценных продакшн-систем.
+- **12+** интеграций LLM.
+- **8+** мультиагентных архитектур.
+- **20+** ML-моделей в продакшне (классический ML и DL).
+- **25+** API-эндпоинтов.
+- **15+** контейнеризованных сервисов.
 
 ---
 
-## 🤝 Professional Contact
+### Технологический стек
 
-<div align="center">
+- **Языки:** Python  
+- **ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost  
+- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API  
+- **NLP:** NLTK, spaCy, gensim, Word2Vec, FastText, TF-IDF  
+- **БД и поиск:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS  
+- **MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith  
+- **Оптимизация inference:** vLLM, TensorRT, llama.cpp, Ollama
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xyntherion)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhaksylykov.k06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kairatzh)
-
-### 💼 Available for:
-`LLM Engineering` • `Multi-Agent Systems` • `Production AI` • `Enterprise Solutions` • `Technical Leadership`
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Value Proposition
-
-**Proven track record in designing and deploying production-ready LLM systems with focus on scalability, performance, and enterprise-grade reliability.**
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
-
-![](https://komarev.com/ghpvc/?username=Kairatzh&color=blueviolet&style=for-the-badge)
-
-</div>
