@@ -26,10 +26,10 @@
 - Построение RAG и GraphRAG систем.
 - Fine-tuning моделей (LoRA, QLoRA, PEFT) для узких доменов.
 - Оптимизация inference (vLLM, TensorRT, llama.cpp, Ollama).
-- Prompt-инжиниринг (Zero-shot, Few-shot, CoT, ReAct).
+- Prompt-инжиниринг (Zero-shot, Few-shot, CoT, ReAct, Planning).
 
 **Multi-Agent Systems**
-- Архитектура многоагентных систем (LangGraph, AutoGEN, Planning Agents).
+- Архитектура многоагентных систем (LangGraph, AutoGEN, Planning Agents, Langchain).
 - Интеграция агентов с API и внешними сервисами.
 - Построение систем с динамическим выбором инструментов.
 
@@ -95,9 +95,9 @@
 
 - **Языки:** Python  
 - **ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost  
-- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API  
+- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API, ollama, llama.cpp  
 - **NLP:** NLTK, spaCy, gensim, Word2Vec, FastText, TF-IDF  
-- **БД и поиск:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS  
+- **БД и поиск:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS, pgvector  
 - **MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith  
 - **Оптимизация inference:** vLLM, TensorRT, llama.cpp, Ollama
 
