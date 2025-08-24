@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Кайрат%20Жаксылыков&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Junior%20LLM%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Кайрат%20Жаксылыков&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20ML/LLM%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=18)
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+LLM+Engineer;Multi-Agent+Systems+Specialist;Production+AI+Applications;Enterprise+ML+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=ML/NLP+Engineer;Multi-Agent+Systems+Specialist;Production+AI+Applications;Enterprise+ML+Solutions)](https://git.io/typing-svg)
 
 </div>
 
