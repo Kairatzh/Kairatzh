@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Кайрат%20Жаксылыков&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20ML/LLM%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Кайрат%20Жаксылыков&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20ML/NLP/LLM%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descSize=18)
 
 </div>
 
@@ -93,9 +93,9 @@
 
 ### Технологический стек
 
-- **Языки:** Python  
+- **Языки:** Python, C++(Base)  
 - **ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost  
-- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API, ollama, llama.cpp  
+- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API(И другие), ollama, llama.cpp  
 - **NLP:** NLTK, spaCy, gensim, Word2Vec, FastText, TF-IDF  
 - **БД и поиск:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS, pgvector  
 - **MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith  
