@@ -83,7 +83,7 @@
 ### Опыт работы
 
 **Tanym (Астана) | NLP/LLM Engineer**  
-*2024 — настоящее время*  
+*31.12.2024 — настоящее время*  
 - Основной разработчик NLP/LLM-модулей в AI-ассистенте.
 - Создание мультиагентных систем, интеграция LLM в процессы обучения.
 - Реализация RAG-пайплайнов, разработка API и контейнеризация сервисов.
@@ -93,11 +93,11 @@
 
 ### Технологический стек
 
-- **Языки:** Python, C++(Base)  
-- **ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost  
-- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API(И другие), ollama, llama.cpp  
-- **NLP:** NLTK, spaCy, gensim, Word2Vec, FastText, TF-IDF  
+- **Языки:** Python, C++  
+- **ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost, numpy, pandas
+- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API(И другие)  
+- **NLP:** NLTK, spaCy, Word2Vec, FastText, TF-IDF  
 - **БД и поиск:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS, pgvector  
-- **MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith  
+- **MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith, ClearML  
 - **Оптимизация inference:** vLLM, TensorRT, llama.cpp, Ollama
 
