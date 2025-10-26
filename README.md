@@ -14,90 +14,91 @@
 
 ## Professional Profile
 
-**Привет, я Кайрат** — специалист в области LLM Engineering, AI Systems Architecture, Machine Learning и Deep Learning.  
-Опыт включает построение масштабируемых AI-систем, разработку классических ML/Deep Learning моделей, работу с традиционной NLP, интеграцию больших языковых моделей (LLM) в продакшн, а также сопровождение полного цикла разработки — от архитектуры до развертывания.  
-Отличаюсь умением объединять современные подходы (LLM, мультиагентные системы, RAG) с проверенными методами классического ML и DL, обеспечивая стабильность, предсказуемость и высокую производительность систем.
+ML/NLP/LLM Engineer with expertise in AI Systems Architecture, Machine Learning, and Deep Learning. Specialized in building scalable AI systems, developing classical ML/DL models, implementing traditional NLP solutions, integrating large language models into production environments, and managing full development lifecycle from architecture to deployment.
+
+Core competency lies in combining modern approaches (LLM, multi-agent systems, RAG) with proven classical ML and DL methodologies to ensure system stability, predictability, and high performance.
 
 ---
 
-### Области экспертизы
+## Areas of Expertise
 
-**LLM Engineering**
-- Построение RAG и GraphRAG систем.
-- Fine-tuning моделей (LoRA, QLoRA, PEFT) для узких доменов.
-- Оптимизация inference (vLLM, TensorRT, llama.cpp, Ollama).
-- Prompt-инжиниринг (Zero-shot, Few-shot, CoT, ReAct, Planning).
+### LLM Engineering
+- Development of RAG and GraphRAG systems
+- Model fine-tuning (LoRA, QLoRA, PEFT) for domain-specific applications
+- Inference optimization (vLLM, TensorRT, llama.cpp, Ollama)
+- Advanced prompt engineering (Zero-shot, Few-shot, CoT, ReAct, Planning)
 
-**Multi-Agent Systems**
-- Архитектура многоагентных систем (LangGraph, AutoGEN, Planning Agents, Langchain).
-- Интеграция агентов с API и внешними сервисами.
-- Построение систем с динамическим выбором инструментов.
+### Multi-Agent Systems
+- Multi-agent system architecture (LangGraph, AutoGEN, Planning Agents, Langchain)
+- Agent integration with APIs and external services
+- Dynamic tool selection systems
 
-**Classical Machine Learning**
-- Регрессия (Linear, Ridge, Lasso), классификация (Logistic Regression, SVM, Decision Trees, Random Forest).
-- Ансамблевые методы (Gradient Boosting, XGBoost, LightGBM, CatBoost).
-- Кластеризация (K-Means, DBSCAN, Hierarchical Clustering).
-- Feature engineering, подбор гиперпараметров, валидация моделей.
+### Classical Machine Learning
+- Regression models (Linear, Ridge, Lasso) and classification algorithms (Logistic Regression, SVM, Decision Trees, Random Forest)
+- Ensemble methods (Gradient Boosting, XGBoost, LightGBM, CatBoost)
+- Clustering techniques (K-Means, DBSCAN, Hierarchical Clustering)
+- Feature engineering, hyperparameter tuning, model validation
 
-**Deep Learning**
-- Построение и обучение нейросетей на PyTorch (MLP, CNN, RNN, LSTM, GRU).
-- Transfer Learning и fine-tuning предобученных моделей (ResNet, EfficientNet, BERT).
-- Оптимизация архитектур, регуляризация, использование scheduler’ов.
-- Работа с большими датасетами и ускорение обучения на GPU.
+### Deep Learning
+- Neural network development and training with PyTorch (MLP, CNN, RNN, LSTM, GRU)
+- Transfer learning and fine-tuning of pre-trained models (ResNet, EfficientNet, BERT)
+- Architecture optimization, regularization, scheduler implementation
+- Large-scale dataset handling and GPU-accelerated training
 
-**Classical NLP**
-- Предобработка текста: токенизация, стемминг, лемматизация, удаление стоп-слов.
-- Векторизация текста (Bag-of-Words, TF-IDF, Word2Vec, FastText, GloVe).
-- Классификация текста, анализ тональности, тематическое моделирование (LDA).
-- Создание чат-ботов и диалоговых систем на основе традиционных методов NLP.
-- Интеграция NLTK, spaCy, gensim в ML-проекты.
+### Classical NLP
+- Text preprocessing: tokenization, stemming, lemmatization, stop-word removal
+- Text vectorization (Bag-of-Words, TF-IDF, Word2Vec, FastText, GloVe)
+- Text classification, sentiment analysis, topic modeling (LDA)
+- Chatbot and dialogue system development using traditional NLP methods
+- Integration of NLTK, spaCy, gensim into ML projects
 
-**Backend & API Development**
-- FastAPI для создания REST API.
-- PostgreSQL и Redis для хранения и кэширования данных.
-- Оптимизация API для высоких нагрузок.
+### Backend & API Development
+- REST API development with FastAPI
+- Data storage and caching with PostgreSQL and Redis
+- API optimization for high-load environments
 
-**MLOps & Production**
-- Контейнеризация (Docker, Docker Compose).
-- CI/CD (GitHub Actions, GitLab CI).
-- Мониторинг, логирование и управление моделями (MLFlow, LangSmith).
+### MLOps & Production
+- Containerization (Docker, Docker Compose)
+- CI/CD pipelines (GitHub Actions, GitLab CI)
+- Model monitoring, logging, and management (MLFlow, LangSmith)
 
-**Vector Search & Databases**
-- Внедрение и оптимизация поиска (ChromaDB, Pinecone, Weaviate, FAISS).
-- Построение гибридных систем поиска.
-
----
-
-### Достижения
-
-- Реализовал **Enterprise RAG-систему** с интеграцией в корпоративные процессы и поддержкой гибридного поиска.
-- Создал **многоагентную платформу** на LangGraph для автоматизации образовательных процессов.
-- Построил **GraphRAG Knowledge System** с использованием Neo4j и LLM для семантического поиска.
-- Разработал и внедрил модели **классического ML** для предсказания цен, классификации данных и оценки рисков.
-- Обучил и оптимизировал **CNN и LSTM** для задач анализа изображений и обработки последовательностей.
-- Наставлял команду стажёров, внедрял стандарты разработки, проводил code review.
-- Довёл несколько AI-продуктов от прототипа до стабильной работы в продакшне.
+### Vector Search & Databases
+- Implementation and optimization of vector search (ChromaDB, Pinecone, Weaviate, FAISS)
+- Hybrid search system development
 
 ---
 
-### Опыт работы
+## Key Achievements
 
-**Tanym (Астана) | NLP/LLM Engineer**  
-*31.12.2024 — настоящее время*  
-- Основной разработчик NLP/LLM-модулей в AI-ассистенте.
-- Создание мультиагентных систем, интеграция LLM в процессы обучения.
-- Реализация RAG-пайплайнов, разработка API и контейнеризация сервисов.
-- Оптимизация inference и качества генерации.
+- Implemented Enterprise RAG system with corporate process integration and hybrid search support
+- Developed multi-agent platform using LangGraph for educational process automation
+- Built GraphRAG Knowledge System utilizing Neo4j and LLM for semantic search
+- Developed and deployed classical ML models for price prediction, data classification, and risk assessment
+- Trained and optimized CNN and LSTM architectures for image analysis and sequence processing tasks
+- Mentored junior engineers, established development standards, conducted code reviews
+- Successfully transitioned multiple AI products from prototype to stable production deployment
 
 ---
 
-### Технологический стек
+## Professional Experience
 
-- **Языки:** Python, C++  
-- **ML/DL:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost, numpy, pandas
-- **LLM:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API(И другие)  
-- **NLP:** NLTK, spaCy, Word2Vec, FastText, TF-IDF  
-- **БД и поиск:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS, pgvector  
-- **MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith, ClearML  
-- **Оптимизация inference:** vLLM, TensorRT, llama.cpp, Ollama
+**Tanym (Astana) | NLP/LLM Engineer**  
+*December 2024 — Present*  
+- Lead developer of NLP/LLM modules in AI assistant platform
+- Multi-agent system development and LLM integration into educational workflows
+- RAG pipeline implementation, API development, and service containerization
+- Inference optimization and generation quality enhancement
 
+---
+
+## Technical Stack
+
+**Programming Languages:** Python, C++  
+**ML/DL Frameworks:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost, numpy, pandas  
+**LLM Tools:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API (and others)  
+**NLP Libraries:** NLTK, spaCy, Word2Vec, FastText, TF-IDF  
+**Databases & Search:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS, pgvector  
+**MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith, ClearML  
+**Inference Optimization:** vLLM, TensorRT, llama.cpp, Ollama
+
+---
