@@ -93,12 +93,28 @@ Core competency lies in combining modern approaches (LLM, multi-agent systems, R
 
 ## Technical Stack
 
-**Programming Languages:** Python, C++  
-**ML/DL Frameworks:** PyTorch, scikit-learn, XGBoost, LightGBM, CatBoost, numpy, pandas  
-**LLM Tools:** LangChain, LangGraph, AutoGEN, vLLM, Hugging Face, OpenAI API (and others)  
-**NLP Libraries:** NLTK, spaCy, Word2Vec, FastText, TF-IDF  
-**Databases & Search:** PostgreSQL, Redis, ChromaDB, Pinecone, Weaviate, FAISS, pgvector  
-**MLOps:** Docker, Docker Compose, GitHub Actions, MLFlow, LangSmith, ClearML  
-**Inference Optimization:** vLLM, TensorRT, llama.cpp, Ollama
+**Programming Languages**:
+Python (async-first, typing, pydantic v2, dependency injection, clean architecture), SQL (query optimization, indexes, transactions), C++ (performance-critical inference, bindings)
+
+**ML / DL Frameworks**:
+PyTorch (production training & fine-tuning), PyTorch Lightning, Hugging Face Transformers, Accelerate, PEFT (LoRA / QLoRA), scikit-learn (baselines & evaluation), XGBoost, LightGBM, CatBoost, numpy, pandas / polars
+
+**LLM Frameworks & Orchestration**:
+LangChain (production pipelines, integrations), LangGraph (stateful agents), AutoGEN (multi-agent research & prototyping), OpenAI API, Hugging Face Inference, vLLM (serving integration)
+
+**NLP / Text Processing**:
+spaCy (production NLP), NLTK (legacy & preprocessing), Embeddings (dense & domain-specific), Tokenization & chunking strategies, TF-IDF (baselines), Word2Vec, FastText, Text normalization & deduplication
+
+**Vector Search & Retrieval**:
+ChromaDB (local & prototyping), FAISS (low-level vector search), Pinecone (managed vector DB), Weaviate (schema-aware vector search), pgvector, Hybrid search (BM25 + dense), Cross-encoder reranking
+
+**Databases & Caching**:
+PostgreSQL (primary OLTP store), Redis (cache, rate limits, session memory)
+
+**MLOps / AI Ops**:
+Docker (multi-stage builds), Docker Compose, GitHub Actions (CI/CD), MLflow (experiments & model registry), ClearML (pipeline orchestration), LangSmith (LLM tracing & eval), Environment-based config, Rollback-ready deployments
+
+**Inference & Performance Optimization**:
+vLLM (high-throughput LLM serving), TensorRT (GPU optimization), Quantization (AWQ / GPTQ), Dynamic batching, KV-cache reuse, Streaming inference, llama.cpp, Ollama (local & edge inference)
 
 ---
