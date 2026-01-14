@@ -80,17 +80,6 @@ Core competency lies in combining modern approaches (LLM, multi-agent systems, R
 
 ---
 
-## Professional Experience
-
-**Tanym (Astana) | NLP/LLM Engineer**  
-*December 2024 — Present*  
-- Lead developer of NLP/LLM modules in AI assistant platform
-- Multi-agent system development and LLM integration into educational workflows
-- RAG pipeline implementation, API development, and service containerization
-- Inference optimization and generation quality enhancement
-
----
-
 ## Technical Stack
 
 **Programming Languages**:
